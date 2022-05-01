@@ -1,1 +1,1 @@
-# hesap-makinesi
+# www.patika.dev
